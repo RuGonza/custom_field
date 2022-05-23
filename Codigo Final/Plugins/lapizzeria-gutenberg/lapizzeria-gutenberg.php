@@ -4,8 +4,8 @@
     Plugin URI: 
     Description: Agrega bloques de Gutenberg nativos
     Version: 1.0
-    Author: Juan Pablo De la torre
-    Author URI: https://twitter.com/JuanDevWP
+    Author: Ruben Dario Hernandez Gonzalez
+    Author URI: 
     License: GPL2
     License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
