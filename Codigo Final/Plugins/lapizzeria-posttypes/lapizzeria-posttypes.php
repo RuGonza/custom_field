@@ -6,7 +6,6 @@
     Description: Añade Post Types al Sitio Web
     Version: 1.0.0
     Author: Ruben Dario Hernandez Gonzalez
-    Author URI: http://codigoconjuan.com
     Text Domain: lapizzeria
 */
 
