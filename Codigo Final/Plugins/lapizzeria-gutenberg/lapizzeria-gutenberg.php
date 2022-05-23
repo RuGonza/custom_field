@@ -5,7 +5,6 @@
     Description: Agrega bloques de Gutenberg nativos
     Version: 1.0
     Author: Ruben Dario Hernandez Gonzalez
-    Author URI: 
     License: GPL2
     License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
